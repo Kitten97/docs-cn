@@ -44,8 +44,6 @@ ColumnPosition ::=
     ( 'FIRST' | 'AFTER' ColumnName )?
 ```
 
-## 示例
-
 {{< copyable "sql" >}}
 
 ```sql
